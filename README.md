@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
     <a href="https://covid-ct.grand-challenge.org/">
-        <img src="data/images/covid_logo.png" alt="Logo" height="200px">
+        <img src="data/images/covid_logo.png" alt="Logo" height="100px">
     </a>
     <h3 align="center">CT diagnosis of COVID-19</h3>
     <p align="center"> 
@@ -54,13 +54,15 @@
     <img src="data/images/overview.PNG" alt="overview">
     <h5 align="center">Figure1.Overview</h5>
 </p>
+
 <!--Test set Result-->
 ## Test set Result
-<p>
- Acc: 0.953
- F1: 0.964
- AUC: 0.987
-</p>
+<ul>
+    <li> Acc: 0.953</li>
+    <li>F1: 0.964</li>
+    <li>AUC: 0.987</li>
+</ul>
+
 <!--prerequisites-->
 ## prerequisites
 * imgaug
