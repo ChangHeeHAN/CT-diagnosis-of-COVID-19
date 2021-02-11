@@ -45,7 +45,8 @@
 
 <!--PAIP2019 challenge-->
 ## CT diagnosis of COVID-19 Challenge
-
+<p>
+</p>
 
 <!-- ABOUT THE PROJECT -->
 ## Our method
@@ -53,6 +54,7 @@
     <img src="data/images/overview.PNG" alt="overview">
     <h5 align="center">Figure1.Overview</h5>
 </p>
+
 <!--prerequisites-->
 ## prerequisites
 * imgaug
