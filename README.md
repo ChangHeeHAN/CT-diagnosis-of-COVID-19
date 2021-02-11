@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
     <a href="https://covid-ct.grand-challenge.org/">
-        <img src="data/images/covid_logo.png" alt="Logo" height="100px">
+        <img src="data/images/covid_logo.png" alt="Logo" >
     </a>
     <h3 align="center">CT diagnosis of COVID-19</h3>
     <p align="center"> 
