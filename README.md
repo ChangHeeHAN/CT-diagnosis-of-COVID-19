@@ -54,7 +54,13 @@
     <img src="data/images/overview.PNG" alt="overview">
     <h5 align="center">Figure1.Overview</h5>
 </p>
-
+<!--Test set Result-->
+## Test set Result
+<p>
+ Acc: 0.953
+ F1: 0.964
+ AUC: 0.987
+</p>
 <!--prerequisites-->
 ## prerequisites
 * imgaug
