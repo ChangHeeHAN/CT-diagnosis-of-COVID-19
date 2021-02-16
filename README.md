@@ -51,8 +51,10 @@
 <!-- ABOUT THE PROJECT -->
 ## Our method
 <p align="center">
-    <img src="data/images/overview.PNG" alt="overview">
-    <h5 align="center">Figure1.Overview</h5>
+    <ul>
+        <li>Preprocessing</li>
+        <li>Loss function</li>
+    </ul>
 </p>
 
 <!--Test set Result-->
